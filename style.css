@@ -9,7 +9,9 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-
+title{
+  font-family: 'Bangers', cursive;
+}
 h1{
   font-size: 5rem;
   color: white;
